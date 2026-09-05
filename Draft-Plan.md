@@ -2,11 +2,13 @@
 
 ## Sensors
 - Temperature, Humidity
-- Wind?
-- Sound (calibration?)
+- Loudness levels: Microphone (calibration?)
+    - Find datacenter humming and other manmade low/high freq noise pollution that humans cannot hear
+    - Find bat calls, other animal sounds that humans also can't hear
+    - Corellate with ADS-B data to find noise (-pollution) patterns
 - Magnetometer (detection of cars)
-- Cloud cover (camera facing up?)
-- Niederschlagssensor
+- Cloud cover, (night sky light pollution?): OPT4001
+- Fine matter pollutant composition analysis (heavy vs light particles, indicating electric vs gas powered vehicles)
 
 ## Power
 - Li-Ion vs LiPo
