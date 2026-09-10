@@ -15,6 +15,9 @@
 - Solar panel (how many Watts does it produce at reasonable size?)
 - Which battery management system?
 
+## Management
+- Expose ports to make reflashing firmware on nodes quick and easy (onsite, no OTA updates beacuse of low LoRa bandwidth over long distances)
+
 ## Footprint
 - Square box about 10x10cm
 - Shielding camera looking above against rain/storms
